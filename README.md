@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Kanishak</h1>
-<h3 align="center">I like developing front-end applications</h3>
+<h1 align="left">Hi, I'm Kanishak</h1>
+<h3 align="left">I like developing front-end applications</h3>
 
 - 📒 currently working on [RE:JAPANESE](https://kanishak-xd.github.io/RE-JAPANESE/)
 
