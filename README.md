@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Kanishak</h1>
 <h3 align="center">I like developing front-end applications</h3>
 
-- 🔭 Currently working on [RE:JAPANESE](https://kanishak-xd.github.io/RE-JAPANESE/)
+- 📒 currently working on [RE:JAPANESE](https://kanishak-xd.github.io/RE-JAPANESE/)
 
-- 🌱 Currently learning **React**
+- 📗 portfolio wesbite [Portfolio](https://kanishak-xd.github.io/Portfolio/)
 
-- 📄 Portfolio [https://kanishak-xd.github.io/Portfolio/](https://kanishak-xd.github.io/Portfolio/)
+- 📘 past experiences [Resume](https://drive.google.com/file/d/1peaDgSo1DXZwk3tFCjl5Aki88P1OT5ZH/view?usp=sharing)
 
 <p align="left">
 </p>
